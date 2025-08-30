@@ -27,7 +27,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6b6b6b"
+				"foreground": "#318833"
 			}
 		},
 		{
@@ -62,6 +62,44 @@
 			],
 			"settings": {
 				"foreground": "#000000"
+			}
+		},
+		{
+			"name": "Operators: Additional",
+			"scope": [
+				"keyword.operator.class.php",
+				"keyword.operator.key.php",
+				"keyword.operator.arithmetic.php",
+				"keyword.operator.arithmetic.cs",
+				"keyword.operator.arithmetic.css",
+				"keyword.operator.arithmetic.go",
+				"keyword.operator.arithmetic.js",
+				"keyword.operator.arithmetic.java",
+				"keyword.operator.arithmetic.python",
+				"keyword.operator.arithmetic.ruby",
+				"keyword.operator.c",
+				"keyword.operator.arithmetic.cpp",
+				"keyword.operator.assignment.php",
+				"keyword.operator.assignment.c",
+				"keyword.operator.assignment.cpp",
+				"keyword.operator.assignment.cs",
+				"keyword.operator.assignment.dart",
+				"keyword.operator.assignment.go",
+				"keyword.operator.assignment.java",
+				"keyword.operator.assignment.js",
+				"keyword.operator.assignment.python",
+				"keyword.operator.assignment.ruby",
+				"keyword.operator.assignment.equal.rust",
+				"keyword.operator.assignment.ts",
+				"keyword.operator.access.dot.rust",
+				"keyword.operator.type.annotation.ts",
+				"keyword.operator.arrow.skinny.rust",
+				"keyword.operator.closure.dart",
+				"keyword.operator.custom.infix.swift",
+				"keyword.operator.function-result.swift"
+			],
+			"settings": {
+				"foreground": "#E44853"
 			}
 		},
 		{

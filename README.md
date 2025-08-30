@@ -4,5 +4,5 @@ This is a minimalist VS Code theme inspired by a screenshot from PragmataPro fon
 
 ## Usage
 
-In order to have the theme colors reflect properly, it is recommended to disable the auto bracket colorization.
+In order to have the theme colors reflect properly, it is recommended to disable the auto bracket colorization.  
 This can be done by setting `editor.bracketPairColorization.enabled` to `false`.
