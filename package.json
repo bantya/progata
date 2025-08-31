@@ -2,9 +2,16 @@
   "name": "progata",
   "displayName": "Progata",
   "description": "A minimalist color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bantya/progata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bantya/progata/issues"
   },
   "categories": [
     "Themes"
