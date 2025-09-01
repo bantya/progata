@@ -225,6 +225,19 @@
 			}
 		},
 		{
+			"name": "Punctuation: Others",
+			"scope": [
+				"variable.entity.other.jinja.delimiter",
+				"entity.other.jinja.delimiter.tag",
+				"keyword.operator.assignment.jinja",
+				"keyword.operator.arithmetic.jinja",
+				"keyword.operator.comparison.jinja",
+			],
+			"settings": {
+				"foreground": "#E44853"
+			}
+		},
+		{
 			"name": "HTML: Doctype Declaration",
 			"scope": [
 				"meta.tag.sgml.doctype",
