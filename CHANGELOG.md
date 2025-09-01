@@ -2,6 +2,10 @@
 
 All notable changes to the "progata" extension will be documented in this file.
 
+## [v0.0.3](../../tree/v0.0.3)
+
+- Adds support for Jinja template (.tpl) files.
+
 ## [v0.0.2](../../tree/v0.0.2)
 
 - Updates the colors for comments (uniline, multiline)
